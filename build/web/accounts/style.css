@@ -1,0 +1,58 @@
+
+#accountAH{
+    border: solid darkblue;
+    position: absolute;
+    top: 22%;
+    left: 15%;
+    width: 70%;
+    height: 30%;
+    overflow:auto;
+}
+#accountBH{
+    border: solid darkblue;
+    position: absolute;
+    top: 54%;
+    left: 15%;
+    width: 70%;
+    height: 30%;
+    overflow:auto;
+}#accountCH{
+    border: solid darkblue;
+    position:absolute;
+    top: 86%;
+    left: 15%;
+    width: 70%;
+    height: 30%;
+    overflow:auto;
+}
+#accountDH{
+    border: solid darkblue;
+    position:absolute;
+    top: 118%;
+    left: 15%;
+    width: 70%;
+    height: 30%;
+    overflow:auto;
+}
+.button1{
+    background:#cc0000;
+    border-radius: 29px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+}
+.button1:hover{
+    background: #d9345d;
+}
+
+.accountAD{
+    border: solid darkblue;
+    position: absolute;
+    top: 22%;
+    left: 15%;
+    width: 70%;
+    height: 90%;
+    overflow:auto;
+}
